@@ -1,0 +1,11 @@
+Manifest-version: 1.0
+X-Compile-Source-JDK: 8
+X-Compile-Target-JDK: 8
+
+Name: jakarta/servlet/
+Specification-Title: Jakarta Servlet
+Specification-Version: 5.0
+Specification-Vendor: Eclipse Foundation
+Implementation-Title: jakarta.servlet
+Implementation-Version: 5.0.0-M1
+Implementation-Vendor: Apache Software Foundation

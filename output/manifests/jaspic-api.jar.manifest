@@ -1,0 +1,11 @@
+Manifest-version: 1.0
+X-Compile-Source-JDK: 8
+X-Compile-Target-JDK: 8
+
+Name: jakarta/security/auth/message
+Specification-Title: Jakarta Authentication SPI for Containers
+Specification-Version: 2.0
+Specification-Vendor: Eclipse Foundation
+Implementation-Title: jakarta.security.auth.message
+Implementation-Version: 2.0.0-M1
+Implementation-Vendor: Apache Software Foundation

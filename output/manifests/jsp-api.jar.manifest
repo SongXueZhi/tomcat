@@ -1,0 +1,11 @@
+Manifest-version: 1.0
+X-Compile-Source-JDK: 8
+X-Compile-Target-JDK: 8
+
+Name: jakarta/servlet/jsp/
+Specification-Title: Jakarta Server Pages
+Specification-Version: 3.0
+Specification-Vendor: Eclipse Foundation
+Implementation-Title: jakarta.servlet.jsp
+Implementation-Version: 3.0.0-M1
+Implementation-Vendor: Apache Software Foundation
